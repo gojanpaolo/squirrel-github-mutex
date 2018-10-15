@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>MyApp</id>
+    <version>$version$</version>
+    <authors>Me</authors>
+    <description>MyApp - Squirrel</description>
+  </metadata>
+  <files>
+    <file src="MyApp\bin\Release\*.*" target="lib\net45\" exclude="*.pdb;*.vshost.*"/>
+  </files>
+</package>
